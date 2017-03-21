@@ -4,8 +4,13 @@ You can use the [editor on GitHub](https://github.com/HMIS96/hmis96/edit/master/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Añadir repositorio git de la asignatura
+### SESION 03 ###
+
+### sesion03-c01 -> "URL a la página de HMIS en gitlabdoc.ual.es"
 http://gitlabdoc.ual.es/root/hmis2017.git
+
+### sesion03-c02 -> "Link a Pro Git Book https://git-scm.com/book/es/"
+https://git-scm.com/book/es/
 
 ### Markdown
 
