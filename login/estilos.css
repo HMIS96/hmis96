@@ -51,5 +51,11 @@ text-align: center;
     margin: 10px;
     text-align: center;
 }
+.text{
+    color: black;
+    font-weight: bold;
+    margin: 10px;
+    text-align: left;
+}
 
 </style>

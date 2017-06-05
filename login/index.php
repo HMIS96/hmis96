@@ -1,12 +1,16 @@
 <?php
 session_start();
+
 include_once "conexion.php";
 include_once "estilos.css";
+include_once "datosUsuarioRegistrado.php";
 
 if(!isset($_SESSION['userid']))
 {
     if(isset($_POST['login']))
     {
+      $_SESSION['UsuarioRegistrado']=$_POST['user'];
+      $_SESSION['ContraseñaUsuarioRegistrado']=$_POST['password'];
 
         if(verificar_login($_POST['user'],$_POST['password'],$result) == 1)
         {
@@ -27,8 +31,8 @@ if(!isset($_SESSION['userid']))
 <form action="" method="post" class="login">
     <div><label>Usuario</label><input name="user" type="text" ></div>
     <div><label>Contraseña</label><input name="password" type="password"></div>
-    <div><label><input name="registro" type="submit" value="Registrarse"></label>
     <div><label><input name="login" type="submit" value="Iniciar Sesión"></div>
+    <div><label><input name="registro" type="submit" value="Registrarse"></div>
 </form>
 <?php
 } else {
