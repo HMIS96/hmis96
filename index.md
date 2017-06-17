@@ -19,8 +19,11 @@ https://about.gitlab.com
 
 ### sesion03-c04 -> "Enlaces a otros SCV distribuidos: Bazaar, Mercurial"
 Bazaar ->  http://bazaar.canonical.com
+
 Mercurial -> https://www.mercurial-scm.org/
+
 Subversion -> http://subversion.apache.org/
+
 
 ### Markdown
 
