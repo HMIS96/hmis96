@@ -1,4 +1,4 @@
-## ENLACES DE LOS MIEMBROS DEL EQUIPO
+﻿## ENLACES DE LOS MIEMBROS DEL EQUIPO
 ### [Adrián Rodríguez Escudero](https://are883.github.io/HMIS-2017/)
 ### [Alejandro Urdiales Manzanaro](https://urdi10.github.io/hmis-repo01/)
 
@@ -16,6 +16,11 @@ https://git-scm.com/book/es/
 
 ### sesion03-c03 -> "Link a gitlab.com"
 https://about.gitlab.com
+
+### sesion03-c04 -> "Enlaces a otros SCV distribuidos: Bazaar, Mercurial"
+Bazaar ->  http://bazaar.canonical.com
+Mercurial -> https://www.mercurial-scm.org/
+Subversion -> http://subversion.apache.org/
 
 ### Markdown
 
