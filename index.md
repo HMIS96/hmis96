@@ -2,10 +2,6 @@
 ### [Adrián Rodríguez Escudero](https://are883.github.io/HMIS-2017/)
 ### [Alejandro Urdiales Manzanaro](https://urdi10.github.io/hmis-repo01/)
 
-You can use the [editor on GitHub](https://github.com/HMIS96/hmis96/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### SESION 03 ###
 
 ### sesion03-c01 -> "URL a la página de HMIS en gitlabdoc.ual.es"
