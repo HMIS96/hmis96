@@ -27,6 +27,8 @@ Subversion -> http://subversion.apache.org/
 ### sesion03-c05 -> "Enlace a documentación de como actualizar un repositorio forkeado con las actualizaciones del repositorio original"
 https://help.github.com/articles/syncing-a-fork/
 
+### sesion03-c06 -> "Enlace a documentación de pull request en github"
+https://help.github.com/articles/about-pull-requests/
 
 ### Markdown
 
