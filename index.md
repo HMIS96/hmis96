@@ -24,8 +24,7 @@ Mercurial -> https://www.mercurial-scm.org/
 
 Subversion -> http://subversion.apache.org/
 
-### sesion03-c05 -> "Enlace a documentación de como actualizar un repositorio forkeado con las
-actualizaciones del repositorio original"
+### sesion03-c05 -> "Enlace a documentación de como actualizar un repositorio forkeado con las actualizaciones del repositorio original"
 https://help.github.com/articles/syncing-a-fork/
 
 
